@@ -1,0 +1,19 @@
+.image1 {
+  height: 100px;
+  width: 100px;
+}
+.topCont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+}
+.rightCont {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+.nav-link{
+  margin-right: 10px;
+  list-style: none;
+}
